@@ -53,7 +53,7 @@ at that time.
 
 The complete project report is available here:
 
-📄 [DUT Project Report – French version](report/Rapport_DUT_Domotique_2021_FR.pdf)
+📄 [DUT Project Report – French version](rapport PFE, la domotique_2021-FR.pdf)
 
 ## Project Status
 
